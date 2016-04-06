@@ -7,7 +7,7 @@ Make sure you have IONIC installed.
 Next to run the project in browser, simply clone the repository, install the dependencies and use `ionic serve`.
 
 ```
-git clone https://github.com/jay3dec/iBucketListApp_Part1.git
+git clone https://github.com/thamaraaalves/buckettoachieve_app.git
 cd iBucketListApp_Part1
 npm install
 ionic serve
