@@ -8,7 +8,7 @@ Next to run the project in browser, simply clone the repository, install the dep
 
 ```
 git clone https://github.com/thamaraaalves/buckettoachieve_app.git
-cd iBucketListApp_Part1
+cd buckettoachieve_app
 npm install
 ionic serve
 ```
@@ -16,7 +16,7 @@ ionic serve
 Running in emulator 
 
 ```
-cd iBucketListApp_Part1
+cd buckettoachieve_app
 ionic platform add android
 ionic build android
 ionic emulate android
