@@ -1,4 +1,4 @@
-# iBucketListApp
+# Buckets to achieve
 
 Bucket List App Using IONIC &amp; Firebase
 
