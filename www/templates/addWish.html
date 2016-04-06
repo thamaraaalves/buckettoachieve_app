@@ -1,0 +1,25 @@
+<!-- Firebase -->
+<script src="https://cdn.firebase.com/js/client/2.2.4/firebase.js"></script>
+<!-- AngularFire -->
+<script src="https://cdn.firebase.com/libs/angularfire/1.2.0/angularfire.min.js"></script>
+
+<ion-view title="iBucketList">
+    <ion-nav-buttons side="primary">
+      <button class="button" ng-click="showUserHome()">
+        Back
+      </button>
+    </ion-nav-buttons>
+     <ion-content>
+      <div class="list list-inset">
+              <label class="item item-input">
+                <input type="text" ng-model="user.wish" placeholder="Enter Wish" >
+              </label>
+
+        </div>
+      <div class="padding">
+            <button ng-click="add()"  class="button button-block button-balanced">
+                  Add Wish
+            </button>
+        </div>
+    </ion-content>
+</ion-view>
